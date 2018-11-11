@@ -9,12 +9,11 @@ https://blog.csdn.net/zhaocj/article/details/50764093
 支持向量機[svm]
 https://blog.csdn.net/zhaocj/article/details/51297907
 
-決策樹
+決策樹[cart]
 https://blog.csdn.net/yxp520123/article/details/79043762
 
 AdaBoost
 https://my.oschina.net/abcijkxyz/blog/787678
-https://webcache.googleusercontent.com/search?q=cache:ocHvpx1cARYJ:https://my.oschina.net/abcijkxyz/blog/787678+&cd=3&hl=zh-TW&ct=clnk&gl=tw
 
 梯度提升樹
 https://blog.csdn.net/zhaocj/article/details/51461643
